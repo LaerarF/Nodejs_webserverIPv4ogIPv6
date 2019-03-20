@@ -1,3 +1,4 @@
+//dette er eit læreingsprosjekt basert på litt mikking og makking. Mål å læra node.js og github kankje :)
 
 
 var http = require('http').createServer(handler); //Bruk http server og  funksjons behandler()
